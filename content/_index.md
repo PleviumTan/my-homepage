@@ -11,8 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text:
-
+      text: "I am a PhD student at Waseda University under the supervision of Professor [Tetsuya Sakai](http://sakailab.com/tetsuya/). My research interests include information retrieval, data mining and recommender systems. My email: pleviumtan[AT]toki.waseda.jp"
   - block: collection
     id: featured
     content:

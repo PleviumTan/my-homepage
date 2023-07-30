@@ -1,21 +1,25 @@
 ---
-title: 'A Reference-Dependent Model for Web Search Evaluation: Understanding and Measuring the Experience of Boundedly Rational Users'
+title: 'Practice and Challenges in Building a Universal Search Quality Metric'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jiqun Liu
+  - Donghyun Park
+  - Hyungae Park
+  - Kijun Choi
   - Tetsuya Sakai
+  - Jinyoung Kim
 
 # Author notes (optional)
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
-
-date: '2023-04-30T00:00:00Z'
-publishDate: "2023-04-30T00:00:00Z"
-doi: 'https://doi.org/10.1145/3543507.3583551'
+date: '2022-04-01T00:00:00Z'
+publishDate: "2022-04-01T00:00:00Z"
+doi: '10.1145/3539618.3591841'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,22 +28,20 @@ doi: 'https://doi.org/10.1145/3543507.3583551'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *TheWebConf(WWW)'23*
-publication_short: In *WWW'23*
+publication: In *SIGIR'23*
+publication_short: In *SIGIR'23*
 
-#tags: ['Full Paper']
+#tags: ['Short Paper']
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: "Full Paper"
-  url: "javascript:void(0)"
-- name: "CCF A"
+- name: "Industrial Track"
   url: "javascript:void(0)"
 
-url_pdf: 'https://www.researchgate.net/publication/368646420_A_Reference-Dependent_Model_for_Web_Search_Evaluation_Understanding_and_Measuring_the_Experience_of_Boundedly_Rational_Users'
+url_pdf: 'https://www.researchgate.net/publication/370126720_Practice_and_Challenges_in_Building_a_Universal_Search_Quality_Metric'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''

@@ -1,17 +1,25 @@
 ---
-title: "图书馆用户的信息素养对借阅行为的影响机理研究"
+title: "On the Ordering of Pooled Web Pages, Gold Assessments, and Bronze Assessments"
 authors:
-- 梁兴堃
-- admin_ch
+
+- Tetsuya Sakai
+- Sijie Tao
+- admin
+- Yujing Li
+- Maria Maistro
+- Zhumin Chu
+- Nicola Ferro
+
+ 
 
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-12-01T00:00:00Z"
-doi: "10.13266/j.issn.0252-3116.2022.21.010"
+date: "2023-05-27T00:00:00Z"
+doi: "10.1145/3600227"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-01T00:00:00Z"
+publishDate: "2023-05-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,19 +28,15 @@ publishDate: "2022-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*图书情报工作, 66*(21)"
-publication_short: "图书情报工作"
+publication: "ACM Transactions on Information Systems"
+publication_short: "TOIS"
 
 featured: false
 
 links:
-- name: "中文"
+- name: "CCF A"
   url: "javascript:void(0)"
-- name: "CSSCI"
-  url: "javascript:void(0)"
-- name: "北大核心"
-  url: "javascript:void(0)"
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3600227
 
 
 

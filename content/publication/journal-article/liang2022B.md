@@ -1,8 +1,8 @@
 ---
-title: "Library Anxiety: Measurement, Antecedents and Outcomes: Empirical Research on Academic Library Users"
+title: "图书馆焦虑的测量、前因和后果——基于高校图书馆用户的实证研究"
 authors:
-- Xingkun Liang
-- admin
+- 梁兴堃
+- admin_ch
 
 author_notes:
 #- "Equal contribution"
@@ -20,8 +20,8 @@ publishDate: "2022-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Library and Information Service, 66*(19)"
-publication_short: "Library and Information Service"
+publication: "*图书情报工作, 66*(19)"
+publication_short: "图书情报工作"
 
 featured: false
 
