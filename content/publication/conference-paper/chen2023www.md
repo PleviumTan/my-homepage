@@ -39,7 +39,7 @@ links:
 - name: "CCF A"
   url: "javascript:void(0)"
 
-url_pdf: 'https://www.researchgate.net/publication/368646420_A_Reference-Dependent_Model_for_Web_Search_Evaluation_Understanding_and_Measuring_the_Experience_of_Boundedly_Rational_Users'
+url_pdf: 'https://arxiv.org/abs/2305.06566'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
